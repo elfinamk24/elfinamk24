@@ -1,4 +1,4 @@
-- Hi 👋 Elfina Here!
+- Hi 👋 Elfina here!
 - 🌱 I’m interested in bioinformatics and computational biology. Let's collaborate :)
 
 
