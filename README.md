@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @elfinamk24
-- 🌱 I’m interested in bioinformatics and computational biology
+- 👋 Elfina Here!
+- 🌱 I’m interested in bioinformatics and computational biology. Let's collaborate!
 
 
 <!---
